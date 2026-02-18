@@ -1,16 +1,14 @@
-## Hi there 👋
+## Sezer Sivri
 
-<!--
-**sezersivri/sezersivri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aerodynamics & CFD Engineer | AI/ML for Aerospace | Agentic Coding**
 
-Here are some ideas to get you started:
+Aerodynamics engineer with 11+ years in the defence industry. M.Sc. research at METU on machine-learning surrogate models for aerodynamic heating prediction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of computational aerospace engineering and artificial intelligence. I leverage agentic coding tools — Claude Code, Gemini CLI, and multi-agent orchestration — to build engineering software, automate analysis pipelines, and accelerate development workflows that would traditionally take weeks.
+
+**Areas of interest:**
+- Agentic coding and AI-assisted software development for engineering applications
+- Multi-agent AI orchestration — coordinating specialised AI models across complex tasks
+- AI/ML surrogate models for CFD and aerodynamic analysis
+- LLM applications for and workflow automation
+- Python-based tooling for computational engineering
