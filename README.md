@@ -1,6 +1,6 @@
 # Hi, I'm Sezer 👋
 
-📍 **Turkey** | ✈️ **Aerodynamics & CFD Engineer** | 🤖 **AI/ML & Agentic Coding**
+✈️ **Aerodynamics & CFD Engineer** | 🤖 **AI/ML & Agentic Coding**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -26,18 +26,8 @@
 - **Surrogate Modeling** - Developing AI/ML surrogate models for CFD and aerodynamic analysis.
 - **Workflow Automation** - Leveraging LLMs to accelerate development workflows that traditionally took weeks.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/sezersivri)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Sezer_Sivri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezersivri)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sezersivri)
 [![Website](https://img.shields.io/badge/-sezersivri.github.io-00A8E8?style=flat-square&logo=google-chrome&logoColor=white)](https://sezersivri.github.io/)
-
----
-
-### Philosophy
-
-> "AI is the ultimate force multiplier for engineering." - I build tools that automate the tedious parts of computational analysis, freeing up engineers to focus on design and innovation.
