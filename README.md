@@ -1,33 +1,23 @@
-# Hi, I'm Sezer 👋
+# Hi, I'm Sezer
 
-✈️ **Aerodynamics & CFD Engineer** | 🤖 **AI/ML & Agentic Coding**
+**Aerodynamics & CFD Engineer**  
+Exploring AI for computational engineering.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
-![Aerospace](https://img.shields.io/badge/-Aerospace-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+I bring over a decade of experience in aerodynamics and computational fluid dynamics. I’m exploring how that domain knowledge can be combined with machine learning and AI to develop better tools and methods for engineering analysis.
 
-> Bridging computational aerospace engineering and artificial intelligence. After 11+ years optimizing aerodynamics in the defence industry, I'm now leveraging multi-agent orchestration to automate complex engineering pipelines at ludicrous speed.
+I’m interested in the intersection of physics-based simulation, data-driven modeling, and practical software development.
 
-✈️ **Research Focus:** M.Sc. at METU on machine-learning surrogate models for aerodynamic heating prediction.
+## Areas of interest
 
-## Current Projects
+- **Surrogate modeling** — learning from simulation data to support faster aerodynamic and aerothermal prediction.
+- **Physics and machine learning** — bringing physical insight into model development and evaluation.
+- **Model reliability** — understanding accuracy, uncertainty, and the limits of predictions beyond training conditions.
+- **AI-assisted engineering** — exploring tools and workflows that support simulation, analysis, and research.
 
-- 🛰️ **[aerosentinel](https://github.com/sezersivri/aerosentinel)** - Automated Aerospace Research Intelligence (Python)
-- 🧠 **[agentsouls](https://github.com/sezersivri/agentsouls)** - Persistent identity, knowledge, and memory for AI agent teams, built on Markdown and Git
-- ⚖️ **[council-of-ais](https://github.com/sezersivri/council-of-ais)** - A multi-AI discussion platform that facilitates debates between Claude, Codex, and Gemini CLIs to reach consensus
+## Engineering approach
 
-## What I'm Doing
-
-- **Automating Engineering** - Building AI-assisted software for computational engineering applications.
-- **Multi-Agent Orchestration** - Coordinating specialized AI models across complex tasks.
-- **Surrogate Modeling** - Developing AI/ML surrogate models for CFD and aerodynamic analysis.
-- **Workflow Automation** - Leveraging LLMs to accelerate development workflows that traditionally took weeks.
+I’m particularly interested in methods that are physically meaningful, validated against trusted references, and useful in practical engineering workflows. I also build software to make analysis more repeatable, automate routine tasks, and test new ideas.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Sezer_Sivri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezersivri)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sezersivri)
-[![Website](https://img.shields.io/badge/-sezersivri.github.io-00A8E8?style=flat-square&logo=google-chrome&logoColor=white)](https://sezersivri.github.io/)
+[LinkedIn](https://www.linkedin.com/in/sivri) · [Website](https://sezersivri.github.io/)
